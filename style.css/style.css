@@ -24,6 +24,11 @@ header {
     background-image: url("../img/IMAGE\ \(33\).png");
     background-repeat: no-repeat;
     background-size: 100%;
+    
+
+}
+br {
+    margin-top: 200px;
 
 }
 .nav {
@@ -60,7 +65,13 @@ header {
     color:  #FFFFFFA1;
     margin-top: 30px;
 }
-
+.late_link{
+    margin-top: 50px;
+    background-color: #DD783F;
+    padding: 10px 20px;
+    color: #FFFFFFA1;
+    border-radius: 5px;
+}
 
 
 
