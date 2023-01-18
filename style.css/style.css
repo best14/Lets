@@ -72,6 +72,16 @@ br {
     color: #FFFFFFA1;
     border-radius: 5px;
 }
+.nav_pro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.nav_max {
+    color: #768088;
+}
+
 
 
 
